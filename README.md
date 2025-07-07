@@ -56,6 +56,10 @@ pnpm build
 - Vite
 - pnpm
 
+## 解説記事
+
+https://zenn.dev/illionillion/articles/2025-06-14-tree-shaking-and-side-effect
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
